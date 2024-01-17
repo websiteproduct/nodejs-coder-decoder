@@ -1,3 +1,3 @@
-# node-template-project
+# nodejs-coder-decoder
 
-## Стартовый шаблон node.js
+## Кодируйте и декодируйте строки через Buffer
